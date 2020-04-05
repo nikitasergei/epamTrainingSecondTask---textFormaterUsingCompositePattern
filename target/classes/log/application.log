@@ -1,0 +1,38 @@
+2020-03-01 22:50:59 INFO  [main]: Operator1 came to work
+2020-03-01 22:50:59 INFO  [main]: Operator2 came to work
+2020-03-01 22:50:59 INFO  [main]: Call Center is ready to work
+2020-03-01 22:51:02 INFO  [main]: Client1 created
+2020-03-01 22:51:02 INFO  [Thread-2]: Client1 call to Call Center
+2020-03-01 22:51:02 INFO  [Thread-2]: Client1 added to clientQueue!
+2020-03-01 22:51:02 INFO  [Thread-0]: Client1 is locked by operator1
+2020-03-01 22:51:05 INFO  [main]: Client2 created
+2020-03-01 22:51:05 INFO  [Thread-3]: Client2 call to Call Center
+2020-03-01 22:51:05 INFO  [Thread-3]: Client2 added to clientQueue!
+2020-03-01 22:51:05 INFO  [Thread-1]: Client2 is locked by operator2
+2020-03-01 22:51:07 INFO  [Thread-0]: Client's1 problem is resolved!
+2020-03-01 22:51:08 INFO  [main]: Client3 created
+2020-03-01 22:51:08 INFO  [Thread-4]: Client3 call to Call Center
+2020-03-01 22:51:08 INFO  [Thread-4]: Client3 added to clientQueue!
+2020-03-01 22:51:08 INFO  [Thread-0]: Client3 is locked by operator1
+2020-03-01 22:51:10 INFO  [Thread-1]: Client's2 problem is resolved!
+2020-03-01 22:51:11 INFO  [main]: Client4 created
+2020-03-01 22:51:11 INFO  [Thread-5]: Client4 call to Call Center
+2020-03-01 22:51:11 INFO  [Thread-5]: Client4 added to clientQueue!
+2020-03-01 22:51:11 INFO  [Thread-1]: Client4 is locked by operator2
+2020-03-01 22:51:13 INFO  [Thread-0]: Client's3 problem is resolved!
+2020-03-01 22:51:14 INFO  [main]: Client5 created
+2020-03-01 22:51:14 INFO  [Thread-6]: Client5 call to Call Center
+2020-03-01 22:51:14 INFO  [Thread-6]: Client5 added to clientQueue!
+2020-03-01 22:51:14 INFO  [Thread-0]: Client5 is locked by operator1
+2020-03-01 22:51:16 INFO  [Thread-1]: Client's4 problem is resolved!
+2020-03-01 22:51:17 INFO  [main]: Client6 created
+2020-03-01 22:51:17 INFO  [Thread-7]: Client6 call to Call Center
+2020-03-01 22:51:17 INFO  [Thread-7]: Client6 added to clientQueue!
+2020-03-01 22:51:17 INFO  [Thread-1]: Client6 is locked by operator2
+2020-03-01 22:51:19 INFO  [Thread-0]: Client's5 problem is resolved!
+2020-03-01 22:51:20 INFO  [main]: Client7 created
+2020-03-01 22:51:20 INFO  [Thread-8]: Client7 call to Call Center
+2020-03-01 22:51:20 INFO  [Thread-8]: Client7 added to clientQueue!
+2020-03-01 22:51:20 INFO  [Thread-0]: Client7 is locked by operator1
+2020-03-01 22:51:22 INFO  [Thread-1]: Client's6 problem is resolved!
+2020-03-01 22:51:25 INFO  [Thread-0]: Client's7 problem is resolved!
